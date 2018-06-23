@@ -6,7 +6,7 @@ Knight Online client creates log.klg but its encrypted with some algortihm. This
 Install
 ----------------
 * install node.js
-* type in terminal `npm i klgread -g`
+* type in terminal `npm i ko-klg-reader -g`
 
 Usage
 -----------------
